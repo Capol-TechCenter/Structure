@@ -8,5 +8,6 @@ namespace RevitGsClass
 {
     class Link
     {
+        double inyyy = 90;
     }
 }
